@@ -1,0 +1,31 @@
+<!-- 
+    Cache-Control: no-cache, no-store, must-revalidate
+    Pragma: no-cache
+    Expires: 0
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.rragroup.ca/</loc>
+    <lastmod>2024-03-18T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://www.rragroup.ca/About</loc>
+    <lastmod>2024-03-18T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.rragroup.ca/Contact</loc>
+    <lastmod>2024-03-18T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.rragroup.ca/FreightServices</loc>
+    <lastmod>2024-03-18T00:00:00.000Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
