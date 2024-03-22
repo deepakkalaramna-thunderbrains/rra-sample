@@ -305,8 +305,8 @@ USA
                       ></textarea>
                     </div>
                     <div class="col-md-12 mt-2 px-1">
-                      <button type="submit" class="btn btn-primary btn-lg">
-                        <span class="d-flex align-items-center justify-content-center">
+                      <button type="submit" className="btn btn-primary btn-lg">
+                        <span className="d-flex align-items-center justify-content-center">
                           Send
                           <svg
                             class="ms-3"

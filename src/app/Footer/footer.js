@@ -88,8 +88,7 @@ ABBOTSFORD BC V2S 3N4 CANADA
         </li>
         <li>
           <div className="d-flex align-items-center">
-            //TODO:N  use url rather than  svg
-            {/* <svg
+            <svg
               width="30"
               height="30"
               xmlns="http://www.w3.org/2000/svg"
@@ -117,7 +116,7 @@ ABBOTSFORD BC V2S 3N4 CANADA
                   <rect width="80" height="80" fill="white" />
                 </clipPath>
               </defs>
-            </svg> */}
+            </svg>
             <p class="ps-3 mb-0 text-white">United States</p>
           </div>
           <div class="d-flex flex-column mt-3">
